@@ -104,7 +104,7 @@
       <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6">
         <div class="text-center text-sm text-gray-500">
           <p>RAG Chat - Aplicación de chat conversacional con documentos PDF</p>
-          <p class="mt-1">Powered by OpenAI, ChromaDB y Nuxt 3</p>
+          <p class="mt-1">Powered by OpenAI, LangChain y Nuxt 3</p>
         </div>
       </div>
     </footer>
